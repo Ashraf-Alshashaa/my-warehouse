@@ -1,0 +1,15 @@
+<div [class]="sidebarClass">
+  <div class="sidebar-header">
+    <i (click)="changeClass()" class="material-symbols-outlined open-close-icon">
+      {{sidebarClass === "sidebar" ? "arrow_circle_left" : "arrow_circle_right"}}
+    </i>
+    <img class="logo" src="/assets/my-warehouse-logo.png" alt="logo">
+    <h1 class="title">My Warehouse</h1>
+  </div>
+  <ul class="nav-items">
+    <a class="nav" *ngFor="let nav of navList" routerLink="{{ nav.route }}" routerLinkActive="active">
+      <i class="material-symbols-outlined nav-icon"> {{ nav.icon }} </i>
+      <p class="nav-name">{{ nav.name }}</p>
+    </a>
+  </ul>
+</div>
