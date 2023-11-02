@@ -1,0 +1,10 @@
+<header class="header">
+  <div class="heder-left">
+    <time class="time">{{time | date: 'dd-MM-YYYY hh:mm a'}}</time>
+    <h2 class="page-title">{{currentPage}}</h2>
+  </div>
+  <div class="user-info">
+    <div class="user-img" [style.backgroundImage]="'url(' + user.img + ')'"></div>
+    <p class="user-name">Hi, {{user.name}}</p>
+  </div>
+</header>

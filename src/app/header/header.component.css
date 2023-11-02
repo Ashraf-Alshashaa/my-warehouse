@@ -1,0 +1,33 @@
+.header {
+  width: 100%;
+  background-color: white;
+  border-radius: 12px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 16px;
+}
+.user-info {
+  display: flex;
+  align-items: center;
+}
+.time {
+  font-size: 12px;
+  line-height: 20px;
+}
+.page-title {
+  font-size: 20px;
+  line-height: 20px;
+}
+.user-img {
+  margin-right: 8px;
+  border-radius: 50%;
+  height: 40px;
+  width: 40px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.user-name {
+  font-weight: 500;
+}
