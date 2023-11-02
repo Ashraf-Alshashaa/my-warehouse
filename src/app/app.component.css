@@ -1,3 +1,8 @@
 .App-container {
   display: flex;
+  background-color: whitesmoke;
+}
+.main {
+  width: 100%;
+  padding: 16px;
 }
