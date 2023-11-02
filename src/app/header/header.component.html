@@ -1,0 +1,18 @@
+<header>
+  <div class="heder-left">
+    <time>{{time | date: 'dd-MM-YYYY hh:mm a'}}</time>
+    <h2>{{currentPage}}</h2>
+  </div>
+  <div class="profile">
+    <div class="user-info">
+      <img [src]="user.img" alt="profile img" class="user-img">
+      <p class="user-name">Hi {{user.name}}</p>
+    </div>
+    <div class="profile-settings">
+      <a class="nav" routerLink="profile-settings">
+        <i class="material-symbols-outlined nav-icon">manage_accounts</i>
+        <p class="nav-name">profile settings</p>
+      </a>
+    </div>
+  </div>
+</header>
