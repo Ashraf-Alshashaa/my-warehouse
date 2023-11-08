@@ -1,0 +1,35 @@
+[
+  {
+    "id": "C001",
+    "name": "Electronics"
+  },
+  {
+    "id": "C002",
+    "name": "Gadgets"
+  },
+  {
+    "id": "C003",
+    "name": "Groceries"
+  },
+  {
+    "id": "C004",
+    "name": "Fashion"
+  },
+  {
+    "id": "C005",
+    "name": "Food"
+  },
+  {
+    "id": "C006",
+    "name": "Fitness"
+  },
+  {
+    "id": "C007",
+    "name": "Books"
+  },
+
+  {
+    "id": "C008",
+    "name": "Kitchen"
+  }
+]

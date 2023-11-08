@@ -1,0 +1,30 @@
+[
+  {
+    "id": "C001",
+    "name": "Jon",
+    "email": "Jon@example.com",
+    "phone": "060999000",
+    "address": "Jon street 15"
+  },
+  {
+    "id": "C002",
+    "name": "Rob",
+    "email": "Rob@example.com",
+    "phone": "060999111",
+    "address": "Rob street 15"
+  },
+  {
+    "id": "C003",
+    "name": "Natasha",
+    "email": "Natasha@example.com",
+    "phone": "060999002",
+    "address": "Natasha street 15"
+  },
+  {
+    "id": "C004",
+    "name": "Mo",
+    "email": "Mo@example.com",
+    "phone": "060999003",
+    "address": "Mo street 15"
+  }
+]

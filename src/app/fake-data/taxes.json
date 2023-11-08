@@ -1,0 +1,17 @@
+[
+  {
+    "id": "T001",
+    "name": "Food and non-alcoholic beverages",
+    "value": 9
+  },
+  {
+    "id": "T002",
+    "name": "Cultural services",
+    "value": 9
+  },
+  {
+    "id": "T003",
+    "name": "standard",
+    "value": 21
+  }
+]

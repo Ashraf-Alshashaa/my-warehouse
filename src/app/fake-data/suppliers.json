@@ -1,0 +1,23 @@
+[
+  {
+    "id": "SU001",
+    "name": "Michelle",
+    "email": "michelle@example.com",
+    "phone": "060999789",
+    "address": "Michelle street 30"
+  },
+  {
+    "id": "SU002",
+    "name": "Henrik",
+    "email": "henrik@example.com",
+    "phone": "060999678",
+    "address": "Henrik street 30"
+  },
+  {
+    "id": "SU003",
+    "name": "Peter",
+    "email": "peter@example.com",
+    "phone": "060999567",
+    "address": "Peter street 30"
+  }
+]

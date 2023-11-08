@@ -1,0 +1,32 @@
+[
+  {
+    "id": "O001",
+    "customer_id": "C001",
+    "shipping_cost": 6.5,
+    "date": "2023-11-02"
+  },
+  {
+    "id": "O002",
+    "customer_id": "C002",
+    "shipping_cost": 6.5,
+    "date": "2023-11-06"
+  },
+  {
+    "id": "O003",
+    "customer_id": "C003",
+    "shipping_cost": 6.5,
+    "date": "2023-10-02"
+  },
+  {
+    "id": "O004",
+    "customer_id": "C004",
+    "shipping_cost": 6.5,
+    "date": "2023-10-01"
+  },
+  {
+    "id": "O005",
+    "customer_id": "C001",
+    "shipping_cost": 6.5,
+    "date": "2023-10-09"
+  }
+]
