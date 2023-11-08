@@ -1,0 +1,66 @@
+[
+  {
+    "id": "S001",
+    "product_id": "P001",
+    "order_id": "O001",
+    "quantity": 2,
+    "profit": 29.99,
+    "taxes": 16.7979
+  },
+  {
+    "id": "S002",
+    "product_id": "P005",
+    "order_id": "O001",
+    "quantity": 1,
+    "profit": 7.99,
+    "taxes": 1.6191
+  },
+  {
+    "id": "S003",
+    "product_id": "P003",
+    "order_id": "O002",
+    "quantity": 3,
+    "profit": 2.99,
+    "taxes": 0.8379
+  },
+  {
+    "id": "S004",
+    "product_id": "P004",
+    "order_id": "O002",
+    "quantity": 2,
+    "profit": 99.99,
+    "taxes": 52.4979
+  },
+  {
+    "id": "S005",
+    "product_id": "P006",
+    "order_id": "O002",
+    "quantity": 1,
+    "profit": 19.99,
+    "taxes": 6.3
+  },
+  {
+    "id": "S006",
+    "product_id": "P007",
+    "order_id": "O003",
+    "quantity": 2,
+    "profit": 12.99,
+    "taxes": 2.5191
+  },
+  {
+    "id": "S007",
+    "product_id": "P008",
+    "order_id": "O004",
+    "quantity": 2,
+    "profit": 69.99,
+    "taxes": 39.8979
+  },
+  {
+    "id": "S008",
+    "product_id": "P009",
+    "order_id": "O004",
+    "quantity": 2,
+    "profit": 29.99,
+    "taxes": 16.7979
+  }
+]
