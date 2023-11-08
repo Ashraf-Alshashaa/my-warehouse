@@ -1,0 +1,30 @@
+[
+  {
+    "id": "E001",
+    "name": "employees salaries",
+    "description": "employees salaries",
+    "date": "2023-11-02",
+    "value": 1200
+  },
+  {
+    "id": "E002",
+    "name": "warehouse rent",
+    "description": "Warehouse rent",
+    "date": "2023-11-01",
+    "value": 600
+  },
+  {
+    "id": "E003",
+    "name": "shelves maintenance",
+    "description": "Maintenance of 3 damaged shelves",
+    "date": "2023-10-04",
+    "value": 75
+  },
+  {
+    "id": "E004",
+    "name": "electricity bill",
+    "description": "Electricity bill",
+    "date": "2023-11-02",
+    "value": 110
+  }
+]
